@@ -1,6 +1,6 @@
 ## QA, Software Tester basic
 
-I'm learning QA basic . There is 5 sprints in the program.
+I'm learning QA basic . There are 5 sprints in the program.
 
 - Intro to QA, Software Tester
 - Basic knowledge for QA and Tester
